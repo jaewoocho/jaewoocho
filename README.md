@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jaewoo Anthony Cho or you can just call me 'J'
-- 📫 How to reach me ... Email: jcho02@syr.edu
+- 📫 How to reach me ... Email: jaewoo.a.cho@vanderbilt.edu
 
 <!---
 jaewoocho/jaewoocho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
